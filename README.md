@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StarHero14 But you could call me Kris.
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning :Javascript and HTML and CSS
+- 🌱 I’m currently learning :Other programming languages that can make up a game. :)
 - 💞️ I’m looking to collaborate on :Nothing Yet
 - 📫 How to reach me : Gmail. My email, alabikristina@gmail.com
 
