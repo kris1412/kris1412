@@ -2,7 +2,6 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning :Other programming languages that can make up a game. :)
 - 💞️ I’m looking to collaborate on :Nothing Yet
-- 📫 How to reach me : Gmail. My email, alabikristina@gmail.com
 
 <!---
 StarHero14/StarHero14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
